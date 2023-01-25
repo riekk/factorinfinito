@@ -1,7 +1,7 @@
 package net.severo.entdes;
 /**
  * 
- * @author Profesor
+ * @author Christian Torrecillas
  *
  */
 public class Factorial {
